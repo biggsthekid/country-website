@@ -59,5 +59,13 @@
 
 .yessir {
     text-align: center;
+    font-family: monospace;
 }
 
+
+.men{
+    font-size: 34px;
+    font-family: monospace;
+    color: aquamarine;
+    
+}

@@ -30,24 +30,30 @@
     padding-left: 0;
 
     text-align: center;
+
+    color: aquamarine;
 }
 
 .nav>li {
     border-style: ridge;
     display: inline-block;
+    color: aquamarine;
 }
 
 .nav>li>a {
     text-decoration: none;
-    color: black;
+    color: aquamarine;
     font-family: monospace;
     font-size: large;
+
 }
 
 
 .lol {
-    width: 25%;
+    width: 32.9%;
     height: auto;
+    display: inline-block;
+    text-align: center;
 }
 
 .urmom {
@@ -60,6 +66,7 @@
 .yessir {
     text-align: center;
     font-family: monospace;
+    color: aquamarine;
 }
 
 
@@ -68,4 +75,8 @@
     font-family: monospace;
     color: aquamarine;
     
+}
+
+body {
+    background-image: url(images/swedish\ flag.jfif);
 }
